@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/panespan/KuiklyUI)
 
 <p align="center">
     <img alt="Kuikly Logo"  src="img/kuikly_logo.svg" />
